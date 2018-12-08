@@ -17,7 +17,7 @@
 
 ---
 
-# Google's Contacts Sync and Backup Transport for Android
+# Google's Contacts Sync and Backup Transport for Android P
 
 The `ContactsSyncAdapter` and `BackupTransport` are missing in the first release of OnePlus's H2OS 9.0(Android P) for OnePlus 5 in Mainland China. In result, contacts and backup data can not be retrieved after a clean installation. This module will bring back those two features.
 
