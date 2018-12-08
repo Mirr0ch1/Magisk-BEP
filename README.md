@@ -9,6 +9,11 @@
 /system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
 ```
 
+### 更新内容
+
+- v1.0.4: 备份传输组件工作正常，联系人同步无法使用
+- v1.0.1: 第一版，联系人同步与备份传输组件均不可用
+
 ## 注意
 
 - 若系统环境已存在上述两个组件，则本模块 **不会对** 系统产生任何更改（即非强制挂载与替换）
@@ -27,6 +32,11 @@ The `ContactsSyncAdapter` and `BackupTransport` are missing in the first release
 /system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
 /system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
 ```
+
+### Changelog
+
+- v1.0.4: BackupTransport working properly, while ContactsSyncAdapter not
+- v1.0.1: Initial release, all functions failed
 
 ## Be advised
 

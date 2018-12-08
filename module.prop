@@ -1,7 +1,7 @@
 id=contactnbackup
 name=Google ContactsSyncAdapter and BackupTransport for Android P
-version=v1.0.4
-versionCode=004
+version=v1.0.5
+versionCode=005
 author=Mirr0Ch1
 description=Bring back the missing Contacts Sync and Google Backup feature for the first release of H2OS Android P for OnePlus 5.
 minMagisk=17000
