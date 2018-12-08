@@ -11,6 +11,8 @@
 
 ### 更新内容
 
+- v1.1.2: 所有功能工作正常（采用了 5.1.1 版的 `ContactsSyncAdapter` ）
+- v1.0.8: 增加喜闻乐见的「数字健康」
 - v1.0.4: 备份传输组件工作正常，联系人同步无法使用
 - v1.0.1: 第一版，联系人同步与备份传输组件均不可用
 
@@ -35,6 +37,7 @@ The `ContactsSyncAdapter` and `BackupTransport` are missing in the first release
 
 ### Changelog
 
+- 
 - v1.0.4: BackupTransport working properly, while ContactsSyncAdapter not
 - v1.0.1: Initial release, all functions failed
 

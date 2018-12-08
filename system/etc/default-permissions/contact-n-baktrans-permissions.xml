@@ -36,4 +36,19 @@
         <permission name="android.permission.GET_ACCOUNTS" fixed="false"/>
     </exception>
 
+        <exception
+                package="com.google.android.syncadapters.calendar">
+            <!-- Calendar -->
+            <permission name="android.permission.READ_CALENDAR" fixed="false"/>
+            <permission name="android.permission.WRITE_CALENDAR" fixed="false"/>
+        </exception>
+
+        <exception
+                package="com.google.android.syncadapters.contacts">
+            <!-- Contacts -->
+            <permission name="android.permission.READ_CONTACTS" fixed="false"/>
+            <permission name="android.permission.WRITE_CONTACTS" fixed="false"/>
+            <permission name="android.permission.GET_ACCOUNTS" fixed="false"/>
+        </exception>
+
 </exceptions>
