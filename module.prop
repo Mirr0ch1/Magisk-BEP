@@ -1,7 +1,7 @@
 id=contactnbackup
 name=Gapps-Extra for H2OS
-version=v1.1.4
-versionCode=014
+version=v1.1.6
+versionCode=016
 author=Mirr0Ch1
-description=Bring back the missing Contacts Sync and Google Backup feature for the first release of H2OS Android P for OnePlus 5, with Dightal Wellbeing as a bonus.
+description=Bring back the missing Contacts Sync and Google Backup feature for the first release of H2OS Android P for OnePlus 5.
 minMagisk=17000
