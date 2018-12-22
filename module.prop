@@ -1,7 +1,7 @@
 id=backupenablep
-name=BackupTransport Enabler (Android P)
-version=v1.1.7
-versionCode=117
+name=H2OS BackupTransport Enabler (Android P)
+version=v1.1.8
+versionCode=118
 author=Mirr0Ch1
 description=Bring back the missing Contacts Sync and Google Backup feature for the first release of H2OS Android P for OnePlus 5.
 minMagisk=17000
